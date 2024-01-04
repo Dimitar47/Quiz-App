@@ -1,0 +1,30 @@
+1 What does HTML stand for? 2
+Hyper Trainer Marking Language False
+Hyper Text Marketing Language False
+Hyper Text Markup Language True
+Hyper Text Markup Leveler False
+2 What is the only thing that computers understand? 2
+Machine Code True
+Low Level Languages False
+High Level Languages False
+Algorithms False
+3 Resolving errors in a program is known as... 2
+Debugging True
+Refixing False
+Error Checking False
+Problem-Solving False
+4 Which of the following is not a high level programming language? 2
+C False
+Java False
+Assembly True
+Python False
+5 What is the name for the software used to convert an assembly language program into machine code? 2
+Assembler True
+Interpreter False
+Compiler False
+Translator False
+6 What is FIFO? 2
+First in Few Out False
+Few In Few out False
+First In First Out True
+Few In First Out False
